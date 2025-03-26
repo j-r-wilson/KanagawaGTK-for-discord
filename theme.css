@@ -2902,12 +2902,12 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* Here is the font change */
 @font-face {
-    font-family: "TerminessTTF";
-    src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf");
+    font-family: "Hack Nerd Font";
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/Hack/Regular/HackNerdFont-Regular.ttf");
 }
 @font-face {
-    font-family: "TerminessTTF Mono";
-    src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf");
+    font-family: "Hack Nerd Font Mono";
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/Hack/Regular/HackNerdFontMono-Regular.ttf");
 }
 
 :root {
