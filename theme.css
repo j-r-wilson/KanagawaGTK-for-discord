@@ -2903,7 +2903,7 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 /* Here is the font change */
 @font-face {
     font-family: "Hack Nerd Font";
-    src: url("https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/Hack/Regular/HackNerdFont-Regular.ttf");
+    src: url("https://github.com/ryanoasis/nerd-fonts/blob/041ef9202ccdba9705b9f96a1fc838b79822a93d/patched-fonts/Hack/Regular/HackNerdFont-Regular.ttf");
 }
 @font-face {
     font-family: "Hack Nerd Font Mono";
